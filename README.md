@@ -2,12 +2,12 @@
 
 The project currently only implements the back-end console. The console is the first segment of the AirBnB clone project. The goal of this project is to make a small segment of a website and building up on it.
 
-## How to start it :computer :
+## How to start it :computer:
 Frist you have to clone the github repository of the project.
 
-'''
+```
 git clone https://github.com/MichaelKetsela/AirBnB_clone.git
-'''
+```
 
 ## Console :computer:
 
